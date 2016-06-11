@@ -1,1 +1,3 @@
-# 24-hr-html-css-js# Safari's 24-Hour HTML, CSS and JS Course
+# Safari's 24-Hour HTML, CSS and JS Course
+
+* link to videos [here](http://www.wrox.com/WileyCDA/Section/id-824446.html)
